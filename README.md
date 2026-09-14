@@ -46,13 +46,43 @@ for technical interviews, or working with network technologies.
 
 🛠️ Related Tools & Visualizers
 
-Practical tools and visualizers related to these networking notes:
+## 🛠️ Related Tools & Visualizers
 
-🔄 Network Layers Visualizer https://github.com/alfredosan-eng/Network-Layers-Visualizer
+Practical tools and visualizers created to complement these networking notes.
 
-🧮 CIDR Visualizer [CIDR Visualizer](https://github.com/alfredosan-eng/CIDR-Visualizer)
+### 🔄 Network Layers Visualizer
 
-🧩 Subnetting Tools https://github.com/alfredosan-eng/Subnetting-Tools
+Visualize the OSI and TCP/IP network layers and understand how protocols and data move through the networking stack.
+
+<p align="center">
+  <a href="https://github.com/alfredosan-eng/Network-Layers-Visualizer">
+    <img src="https://img.shields.io/badge/Network_Layers_Visualizer-View_Project-2ea44f?style=for-the-badge&logo=github" alt="Network Layers Visualizer">
+  </a>
+</p>
+
+---
+
+### 🧮 CIDR Visualizer
+
+Explore CIDR notation and visualize network prefixes, address ranges, and subnet information.
+
+<p align="center">
+  <a href="https://github.com/alfredosan-eng/CIDR-Visualizer">
+    <img src="https://img.shields.io/badge/CIDR_Visualizer-View_Project-2ea44f?style=for-the-badge&logo=github" alt="CIDR Visualizer">
+  </a>
+</p>
+
+---
+
+### 🧩 Subnetting Tools
+
+Practical tools for understanding and working with IP subnetting and network calculations.
+
+<p align="center">
+  <a href="https://github.com/alfredosan-eng/Subnetting-Tools">
+    <img src="https://img.shields.io/badge/Subnetting_Tools-View_Project-2ea44f?style=for-the-badge&logo=github" alt="Subnetting Tools">
+  </a>
+</p>
 
 
 ## 📜 License
