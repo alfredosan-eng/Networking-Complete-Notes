@@ -48,9 +48,9 @@ for technical interviews, or working with network technologies.
 
 Practical tools and visualizers related to these networking notes:
 
-🔄 Network Layers Visualizer https://github.com/alfredosan-eng/Network-Layers-Visualizer?utm_source=chatgpt.com
+🔄 Network Layers Visualizer https://github.com/alfredosan-eng/Network-Layers-Visualizer
 
-🧮 CIDR Visualizer https://github.com/alfredosan-eng/CIDR-Visualizer?utm_source=chatgpt.com
+🧮 CIDR Visualizer [CIDR Visualizer](https://github.com/alfredosan-eng/CIDR-Visualizer)
 
 🧩 Subnetting Tools https://github.com/alfredosan-eng/Subnetting-Tools
 
