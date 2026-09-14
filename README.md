@@ -1,48 +1,5 @@
 # 🌐 Networking Complete Notes
 
-> 📚 Basic networking notes — from Beginner to Advanced.
-
-<p align="center">
-  <img src="assets/networking-cover.jpg" alt="Networking Complete Notes" width="750">
-</p>
-
-## 📖 About
-
-A visual collection of networking notes created as a practical study and
-quick-reference resource for learning **Computer Networking**.
-
-The material follows a progressive approach:
-
-**Learn → Understand → Apply**
-
-It is designed for students, IT professionals, and anyone building a strong
-foundation in networking for **IT Support, CCNA, DevOps, Cloud, and Cybersecurity**.
-
----
-
-## 🧠 Introduction to Networking
-
-The notes begin with the fundamentals of computer networking, including how
-devices communicate, client-server architecture, LAN, WAN, Internet,
-request flows, and the role of networking in modern DevOps environments.
-
-<p align="center">
-  <img src="assets/introduction-networking.jpg" alt="Introduction to Computer Networking" width="750">
-</p>
-
----
-
-## 🔄 Networking Models
-
-The material introduces the **OSI and TCP/IP models**, data encapsulation,
-network layers, protocols, and how packets move from a sender to a receiver.
-
-<p align="center">
-  <img src="assets/tcp-ip-model.jpg" alt="TCP/IP Model and Encapsulation" width="750">
-</p>
-
----
-
 ## 📚 Main Topics
 
 - Networking Fundamentals
@@ -70,7 +27,9 @@ network layers, protocols, and how packets move from a sender to a receiver.
 
 The complete material is available in:
 
-**`Networking_AlfredoSan_GitHub_FINAL.pdf`**
+📘 Networking Notes — Part 1
+
+📗 Networking Notes — Part 2
 
 The PDF contains visual explanations, diagrams, examples, comparisons,
 and quick-reference information covering the topics above.
@@ -84,6 +43,17 @@ reference** that can be used while studying, reviewing concepts, preparing
 for technical interviews, or working with network technologies.
 
 ---
+
+🛠️ Related Tools & Visualizers
+
+Practical tools and visualizers related to these networking notes:
+
+🔄 Network Layers Visualizer
+
+🧮 CIDR Visualizer
+
+🧩 Subnetting Tools
+
 
 ## 📜 License
 
